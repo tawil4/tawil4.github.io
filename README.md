@@ -4,9 +4,9 @@
 
 ## Artifacts
 - Code Review - Full Stack Development and Computational Graphics and Visualization
-- Travlr Web Application - Full Stack Development | (Software Design and Engineering)
-- OpenGL Scene - Computational Graphics and Visualization | (Algorithms and Data Structures) 	 			        		
-- Travlr Web Application - Full Stack Development | (Databases)
+- Travlr Web Application - Full Stack Development (Software Design and Engineering)
+- OpenGL Scene - Computational Graphics and Visualization (Algorithms and Data Structures) 	 			        		
+- Travlr Web Application - Full Stack Development (Databases)
 
 ## Code Review
 ### Full Stack Development and Computational Graphics and Visualization
@@ -20,6 +20,8 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 [Narrative](https://github.com/tawil4/tawil4.github.io/blob/main/Category%20One%20-%20Software%20Design%20and%20Engineering%20Enhancement%20Narrative.docx)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![Travlr Home Page](assets/img/travlr_home.png)
 
 ### OpenGL Scene (Algorithms and Data Structures)
 [Files](https://github.com/tawil4/tawil4.github.io/tree/main/CS330Content%20(Enhanced)/CS330Content)
