@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6599cc8c9f1fdb5d4b6c54d25ae33acc4fca07b053cfd702a287314e7b6739c6
-size 334
+title: Adam Tawil
+logo: /assets/img/headshot_tawil.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
