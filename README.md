@@ -3,10 +3,17 @@
 #### Classes: Full Stack Development and Computational Graphics and Visualization
 
 ## Artifacts
-- Code Review - Full Stack Development and Computational Graphics and Visualization
+- Professional Self-Assesment
+- Code Review - Travlr Web Application and OpenGL Scene
 - Travlr Web Application - Full Stack Development (Software Design and Engineering)
 - OpenGL Scene - Computational Graphics and Visualization (Algorithms and Data Structures) 	 			        		
 - Travlr Web Application - Full Stack Development (Databases)
+
+## Professional Self-Assesment
+### Computer Science Degree
+[File](https://github.com/tawil4/tawil4.github.io/blob/main/Professional%20Self-Assessment%C2%A0-%20Adam%20Tawil.docx)
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ## Code Review
 ### Full Stack Development and Computational Graphics and Visualization
