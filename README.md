@@ -36,7 +36,7 @@ This artifact contains the Travlr Getaways web application where I make software
 ### OpenGL Scene (Algorithms and Data Structures)
 [Files](https://github.com/tawil4/tawil4.github.io/tree/main/CS330Content%20(Enhanced)/CS330Content)
 [Narrative](https://github.com/tawil4/tawil4.github.io/blob/main/Category%20Two%20-%20Alorithms%20and%20Data%20Structures%20Enhancement%20Narrative.docx)
-[Image](https://github.com/tawil4/tawil4.github.io/blob/main/opengl_scene.png)
+[Image](https://github.com/tawil4/tawil4.github.io/blob/main/openglscene.png)
 
 This artifact contains the OpenGL scene that was created to resemble a real-life scene using complex objects, textures, and lighting. I enhanced the artifact by changing shapes, textures, materials, colors, and lighting to better resemble the real-life scene compared to my first edition in the course.   
 
@@ -44,6 +44,6 @@ This artifact contains the OpenGL scene that was created to resemble a real-life
 ### Travlr Web Application (Databases)
 [Files](https://github.com/tawil4/tawil4.github.io/tree/main/travlr%20(Enhanced))
 [Narrative](https://github.com/tawil4/tawil4.github.io/blob/main/Category%20Three%20-%20Databases%20Enhancement%20Narrative.docx)
-[Image](https://github.com/tawil4/tawil4.github.io/blob/main/travlr_reservations.png)
+[Image](https://github.com/tawil4/tawil4.github.io/blob/main/travlrreservations.png)
 
 This artifact contains the Travlr Getaways web application where I make database enhancements. The artifact was enhanced by adding database functionality for reservations as well as server-side validation.  
