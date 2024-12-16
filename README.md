@@ -37,7 +37,7 @@ This artifact contains the Travlr Getaways web application where I make software
 This artifact contains the OpenGL scene that was created to resemble a real-life scene using complex objects, textures, and lighting. I enhanced the artifact by changing shapes, textures, materials, colors, and lighting to better resemble the real-life scene compared to my first edition in the course.   
 
 
-## Travlr Web Application (Databases)
+### Travlr Web Application (Databases)
 [Files](https://github.com/tawil4/tawil4.github.io/tree/main/travlr%20(Enhanced))
 [Narrative](https://github.com/tawil4/tawil4.github.io/blob/main/Category%20Three%20-%20Databases%20Enhancement%20Narrative.docx)
 [Image](https://github.com/tawil4/tawil4.github.io/blob/main/travlr_reservations.png)
